@@ -74,4 +74,3 @@ frame.set_draw_handler(draw)
 frame.start()
 
 
-# Always remember to review the grading rubric
